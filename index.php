@@ -9,6 +9,8 @@
 <body>
 	
 	<h1>BIENVENIDO A HEROKU</h1>
+
+	<h2>YUPII POR FIN PUDE CONECTAR GIT  GITHUB + HEROKU</h2>
 	
 </body>
 </html>
