@@ -1,0 +1,14 @@
+{
+  "name": "heroku_app",
+  "description": "",
+  "scripts": {
+  },
+  "env": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
